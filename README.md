@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Saumya Jain 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | Innovator 💡</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saumya1620&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1620" />
@@ -12,11 +12,12 @@
 ---
 
 ### 🌟 **About Me**  
-- 🔥 Passionate about **MERN Stack, Cloud Computing, and AI**  
-- 🎯 Always exploring new **Technologies and problem-solving approaches**  
-- 📚 Currently learning **Data Structures & Algorithms** for **competitive programming**  
-- 🏆 Open to **collaborations, projects, and hackathons**  
-- ⚡ Fun Fact: I love **building things that make an impact**! 💡  
+- Aspiring Data Analyst passionate about turning raw data into meaningful insights. 
+- Currently building my skills in **Python,SQL,Excel and Power BI.** 
+- Interested in **Data Cleaning,Exploratory Data Analysis,Data Visualization and Business Analytics.**
+- Building end-to-end analytics projects using real-world datasets.
+- Continuously learning and improving my analytical and technical skills.
+- Background in web development with experience in JavaScript, Node.js, Express.js and MongoDB.
 
 ---
 
@@ -31,7 +32,19 @@
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
 </p>
 
-### 🌐 **Web Development**  
+### 🌐 **Data Analytics**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Numpy-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/PowerBI-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🌐 **Additional Technical Skills**  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,7 +59,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter Notebook-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -82,9 +95,6 @@
   </a>
   <a href="https://github.com/saumya1620">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/saumya1620/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
