@@ -34,14 +34,14 @@
 
 ### 🌐 **Data Analytics**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Numpy-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Numpy-43853D?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/PowerBI-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-47A248?style=for-the-badge&logo=seaborn&logoColor=white" />
+   <img src="https://img.shields.io/badge/PowerBI-E34F26?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1572B6?style=for-the-badge&logo=excel&logoColor=white" />
 </p>
 
 ### 🌐 **Additional Technical Skills**  
